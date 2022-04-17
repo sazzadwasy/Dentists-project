@@ -1,0 +1,13 @@
+.reg-form {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.reg-form input {
+    width: 100%;
+    display: block;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+}

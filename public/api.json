@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Zirconium Dental Implants",
+        "img": "",
+        "detail": "Zirconioum is a crystal-like metal from the titanium family and is mined all over.right now,it has been widely used as a crpwn material for implants by the debtists to replace the damaged teeth.",
+        "price": "5000$",
+        "id": 1
+    },
+    {
+        "name": "Titanium Dental Implants",
+        "img": "",
+        "detail": "Titanium is one of the most frequently usede metals for dental implant treatment due to its excelent property of fusing to human bone.They are light in weight and strong in nature.",
+        "price": "3000$",
+        "id": 2
+    },
+    {
+        "name": "Ceramic Dental Implants",
+        "img": "",
+        "detail": "Ceramic implants do not contain any metal and white color in nature.The problems in gums will be easily recover over implants.Your tooth looks natural and no one can find",
+        "price": "2500$",
+        "id": 3
+    }
+]
