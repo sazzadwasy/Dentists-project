@@ -1,0 +1,15 @@
+.banner-caption {
+    background-color: rgba(0, 0, 0, .5);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+@media Only screen and (max-width:576px) {
+    .carousel {
+        margin-top: 100px;
+    }
+
+    .banner-caption {
+        font-size: 5px;
+    }
+}
