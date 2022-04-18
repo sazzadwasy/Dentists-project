@@ -1,0 +1,9 @@
+.blog-content {
+    margin-top: 80px;
+    padding: 25px;
+}
+
+.blog-content p {
+    font-size: 30px;
+    font-weight: 600;
+}

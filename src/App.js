@@ -10,6 +10,7 @@ import About from './Pages/About/About';
 import TreatmentDetail from './Pages/TreatmentDetail/TreatmentDetail';
 import RequireAuth from './Pages/Home/Login/RequireAuth/RequireAuth';
 import CheckOut from './Pages/CheckOut/CheckOut';
+import Blogs from './Pages/Blogs/Blogs';
 function App() {
   return (
     <div className="App">
@@ -26,6 +27,7 @@ function App() {
           </RequireAuth>
         }></Route>
         <Route path='/about' element={<About></About>}></Route>
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
