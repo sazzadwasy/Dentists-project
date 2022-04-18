@@ -1,0 +1,21 @@
+.about-container {
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.about-container img {
+    width: 500px;
+    height: 600px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.about-info {
+    padding: 20px;
+}
+
+.about-info p {
+    color: #4c2b16;
+    font-size: 30px;
+    font-weight: 600;
+}
