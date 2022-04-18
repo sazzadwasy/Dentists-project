@@ -13,13 +13,13 @@ const Header = () => {
     }
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+            <Navbar className='p-4' collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand as={Link} to="/">Dentist Wasy</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link as={Link} to="home#treatments">Treatments</Nav.Link>
+                            <Nav.Link as={Link} to="/#treatments">Treatments</Nav.Link>
                             {user ?
                                 <button className='btn btn-primary' onClick={handleSignOut}>Sign Out</button>
                                 :

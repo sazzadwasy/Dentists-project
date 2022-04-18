@@ -19,7 +19,7 @@ const Login = () => {
         user,
         loading,
         error,
-    ] = useSignInWithEmailAndPassword(auth, { sendEmailVerification: true });
+    ] = useSignInWithEmailAndPassword(auth);
     const handleSubmit = event => {
         event.preventDefault()
         const email = emailRef.current.value

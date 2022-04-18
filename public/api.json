@@ -7,17 +7,17 @@
         "id": 1
     },
     {
-        "name": "Titanium Dental Implants",
-        "img": "https://implantme.com/wp-content/uploads/2016/02/Titanium-%E2%80%93-The-game-changing-material.jpg",
-        "detail": "Titanium is one of the most frequently usede metals for dental implant treatment due to its excelent property of fusing to human bone.They are light in weight and strong in nature.",
-        "price": "3000$",
-        "id": 2
-    },
-    {
         "name": "Ceramic Dental Implants",
         "img": "https://d1kw0nx8pk9xzh.cloudfront.net/0001/59aded66/resize-crop(w=1027;h=578):sharpen(level=0):output(format=jpeg)/up/dt/2017/03/ecf68ef70f7c2d5c26b5ca8f2cdea2a8.jpg",
         "detail": "Ceramic implants do not contain any metal and white color in nature.The problems in gums will be easily recover over implants.Your tooth looks natural and no one can find",
         "price": "2500$",
         "id": 3
+    },
+    {
+        "name": "Titanium Dental Implants",
+        "img": "https://implantme.com/wp-content/uploads/2016/02/Titanium-%E2%80%93-The-game-changing-material.jpg",
+        "detail": "Titanium is one of the most frequently usede metals for dental implant treatment due to its excelent property of fusing to human bone.They are light in weight and strong in nature.",
+        "price": "3000$",
+        "id": 2
     }
 ]

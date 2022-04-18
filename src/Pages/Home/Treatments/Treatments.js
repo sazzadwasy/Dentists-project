@@ -10,8 +10,8 @@ const Treatments = () => {
             .then(data => setTreatments(data))
     }, [])
     return (
-        <div>
-            <h1 className='text-primary text-center'>Treatments</h1>
+        <div id='treatments'>
+            <h1 className='text-primary text-center mt-4'>Treatments</h1>
             <div id='#treatments' className='treatments-container container'>
                 {
                     treatments.map(treatment => <Treatment
