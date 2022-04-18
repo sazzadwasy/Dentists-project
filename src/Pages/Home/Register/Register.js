@@ -21,6 +21,7 @@ const Register = () => {
     }
     if (user) {
         navigate('/home')
+        console.log(user)
     }
     return (
         <div className='reg-form'>
