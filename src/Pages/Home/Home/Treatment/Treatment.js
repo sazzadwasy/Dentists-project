@@ -1,4 +1,5 @@
 import React from 'react';
+import './Treatment.css'
 import { useNavigate } from 'react-router-dom';
 
 const Treatment = ({ treatment }) => {
@@ -14,7 +15,7 @@ const Treatment = ({ treatment }) => {
             <h1>{name}</h1>
             <p>{detail}</p>
             <h3>{price}</h3>
-            <button onClick={() => handleNavigateToTreatmentDetail(id)} className='btn btn-secondary'>Explore</button>
+            <button onClick={() => handleNavigateToTreatmentDetail(id)} className='btn btn-secondary w-50'>Explore</button>
         </div>
     );
 };

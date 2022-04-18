@@ -1,21 +1,21 @@
 [
     {
         "name": "Zirconium Dental Implants",
-        "img": "",
+        "img": "https://eacim-ceramic-implantology.com/wp-content/uploads/2018/12/News-straumann2p-def.jpg",
         "detail": "Zirconioum is a crystal-like metal from the titanium family and is mined all over.right now,it has been widely used as a crpwn material for implants by the debtists to replace the damaged teeth.",
         "price": "5000$",
         "id": 1
     },
     {
         "name": "Titanium Dental Implants",
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.islanddailydentalcare.com%2Fblog%2F2019%2F12%2F09%2Fwhat-should-you-do-if-your-dental-implants-fail%2F&psig=AOvVaw05Hz8W5BKt2o7YjpoCphcF&ust=1650305501639000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjg4KPZm_cCFQAAAAAdAAAAABAP",
+        "img": "https://implantme.com/wp-content/uploads/2016/02/Titanium-%E2%80%93-The-game-changing-material.jpg",
         "detail": "Titanium is one of the most frequently usede metals for dental implant treatment due to its excelent property of fusing to human bone.They are light in weight and strong in nature.",
         "price": "3000$",
         "id": 2
     },
     {
         "name": "Ceramic Dental Implants",
-        "img": "",
+        "img": "https://d1kw0nx8pk9xzh.cloudfront.net/0001/59aded66/resize-crop(w=1027;h=578):sharpen(level=0):output(format=jpeg)/up/dt/2017/03/ecf68ef70f7c2d5c26b5ca8f2cdea2a8.jpg",
         "detail": "Ceramic implants do not contain any metal and white color in nature.The problems in gums will be easily recover over implants.Your tooth looks natural and no one can find",
         "price": "2500$",
         "id": 3
